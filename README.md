@@ -1,7 +1,6 @@
 # ASL Language Detection Model
 
 ## Description
-## Description
 This project focuses on building a model to detect American Sign Language (ASL) letters. Initially, the model was a CNN classifier trained to recognize 6 ASL letters. As the complexity increased, I transitioned to using a custom LSTM model with a keypoints approach. 
 
 The project also includes a web app for real-time inference, which is still in development. You can see a demo of the first approach on my [LinkedIn](https://www.linkedin.com/posts/youssef-makhlouf-608aa622a_deployment-ai-machinelearning-activity-7154398378850762752-nfRJ?utm_source=share&utm_medium=member_desktop) link.
