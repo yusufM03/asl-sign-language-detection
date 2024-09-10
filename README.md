@@ -30,5 +30,11 @@ U can find the keypointsapproach model on checkpoint folder to test ( still in p
 - Collecting more data to avoid overfitting.
 - Hyper-tuning the model for better performance and accuracy.
 
+## Contributing
+Feel free to contribute to this project! You can contribute by:
+- Reporting issues or suggesting improvements
+- Submitting pull requests with code changes or new features
+- Providing feedback or ideas for future enhancements
+
 ## License
 [MIT License](LICENSE)
